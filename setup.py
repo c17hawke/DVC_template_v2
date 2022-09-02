@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 ## edit below variables as per your requirements -
-REPO_NAME = "DVC_DL_Tensorflow_updated" # github repo name
-AUTHOR_USER_NAME = "c17hawke"
-SRC_REPO = "deepClassifier" # example sklearn etc
+REPO_NAME = "<github repo name>" # github repo name
+AUTHOR_USER_NAME = "c17hawke" # update as per your need
+SRC_REPO = "<change me>" # example sklearn etc
 LIST_OF_REQUIREMENTS = [] # core dependencies
 
 

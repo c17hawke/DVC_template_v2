@@ -6,3 +6,4 @@ EPOCHS: 1
 CLASSES: 2
 WEIGHTS: imagenet
 LEARNING_RATE: 0.001
+# update as per your requirements This is a sample

@@ -8,8 +8,7 @@ def main():
     config  =  ConfigurationManager()
     data_ingestion_config = config.get_data_ingestion_config()
     data_ingestion = DataIngestion(data_ingestion_config)
-    data_ingestion.download_file()
-    data_ingestion.unzip_and_clean()
+    data_ingestion.sample_methods() # as defined in the component
 
 
 if __name__ == "__main__":
